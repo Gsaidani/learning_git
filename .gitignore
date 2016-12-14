@@ -1,0 +1,4 @@
+1#ignore alla binaries  files
+2/bin/*
+3
+4!/bin/logo.jpg
